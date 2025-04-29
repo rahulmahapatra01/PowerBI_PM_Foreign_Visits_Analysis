@@ -1,4 +1,4 @@
-🏛️ <h1>Foreign Visits Overview</h1>
+<h1>🏛️ PM Narendra Modi Foreign Visits Overview</h1>
 
 <p><strong>📌 Source:</strong> Data extracted from the <a href="https://www.mea.gov.in" target="_blank">MEA website</a></p>
 <p><strong>🎨 Feature:</strong> This Power BI dashboard includes a <strong>Dark/Light mode toggle</strong> for enhanced user experience.</p>
